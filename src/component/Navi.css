@@ -1,0 +1,15 @@
+navClass{
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+}
+
+a {
+    margin: 10px 20px 10px 20px;
+    font-weight: 500;
+    color: #646cff;
+    text-decoration: inherit;
+}
+a:hover {
+    color: #213547;
+}
